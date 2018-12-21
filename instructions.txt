@@ -3,6 +3,10 @@ Here are some instructions.
 
 More instructions here. 
 
+<<<<<<< HEAD
 
 some more...
 asdfdsfadgadsoifjai
+=======
+some less..
+>>>>>>> 77d06f5cb68664bf6a80c0b15ed9b9ff3400b414
